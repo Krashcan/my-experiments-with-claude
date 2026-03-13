@@ -6,4 +6,4 @@ A hands-on project for understanding and validating Claude Code's harness — ho
 
 | Concept | Details |
 |---------|---------|
-| Hooks   | [hooks/hooks.md](hooks/hooks.md) |
+| Hooks   | [hooks/hooks.md](hooks/hooks.md), [.claude/hooks/README.md](.claude/hooks/README.md) |
